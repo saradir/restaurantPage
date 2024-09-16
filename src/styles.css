@@ -1,6 +1,6 @@
 header{
     background-color: #d9373a;
-    color: #f2c94c;
+    color: rgb(242,203,82);
     width: 100%;
     display: flex;
     justify-content: center;
@@ -36,17 +36,16 @@ div.menu{
     color: black;
 }
 #content{
-    background-color: #F5E6CC;
+    background-color: rgb(73,52,14);
     display: flex;
     flex-direction: column;
     width: 100%;
     align-items: center;
     min-height: 100vh;
-    color: ;
 }
 
 #content h1{
-    color:#f2c94c;
+    color:rgb(242,203,82);
     font-style: italic;
 }
 
@@ -54,13 +53,15 @@ button.nav{
     margin: 10px;
     height: 35px;
     width: 80px;
-    color: #f2c94c;
-    background-color: #d9373a;
+    color: rgb(242,203,82);
+    background-color: rgb(163,31,33);
     font-size: large;
 
 }
 
 button.active{
-    color: rb(23, 90, 23);
+    color: rgb(40, 69, 40);
     font-weight: 600;
+    border-color: rgb(242,203,82);
+
 }

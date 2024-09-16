@@ -61,6 +61,6 @@ button.nav{
 }
 
 button.active{
-    color: rgb(23, 90, 23);
+    color: rb(23, 90, 23);
     font-weight: 600;
 }
